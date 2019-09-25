@@ -204,7 +204,6 @@ struct ImVec4
     IM_VEC4_CLASS_EXTRA     // Define additional constructors and implicit cast operators in imconfig.h to convert back and forth between your math types and ImVec4.
 #endif
 };
-
 //-----------------------------------------------------------------------------
 // ImGui: Dear ImGui end-user API
 // (Inside a namespace so you can add extra functions in your own separate file. Please don't modify imgui.cpp/.h!)
